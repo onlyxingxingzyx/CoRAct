@@ -1,0 +1,18 @@
+Website interface: Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)
+
+This notice applies to the website's adapted presentation/interface files
+(index.html, site.config.js, static/css/style.css, static/js/main.js, and the
+original small interface icon). Preserve the design credits and footer links
+when redistributing an adaptation.
+
+License text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Design sources and adaptations are described in CREDITS.md.
+
+EXCLUDED MATERIAL: the supplied research manuscript (static/paper.pdf), research
+text, reproduced figures, paper tables/data, and any subsequently added author
+photos, logos or videos remain subject to their respective authors' rights.
+This package does not grant new rights in those materials.
+
+No font files, third-party analytics code, or unrelated research assets are
+included in this package.
