@@ -6,7 +6,7 @@
  */
 window.CORACT_CONFIG = {
   siteUrl: "",          // e.g. https://YOUR_USERNAME.github.io/CoRAct/
-  paperUrl: "static/paper.pdf",
+  paperUrl: "static/2610.39543v1.pdf",
   codeUrl: "",          // Actual model/code repository, NOT necessarily this website repository.
   arxivUrl: "",         // e.g. https://arxiv.org/abs/YOUR_PAPER_ID
   videoSrc: "",         // Put video at static/videos/overview.mp4, then enter that relative path.
